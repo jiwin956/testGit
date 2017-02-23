@@ -3,7 +3,7 @@ package sample;
 public class MainTest {
 
 	public static void main(String[] args) {
-		System.out.println("aaaaaaaaada ");
+		System.out.println("aaaaaaaaada asdf ");
 	}
 
 }
